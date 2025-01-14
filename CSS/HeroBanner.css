@@ -155,12 +155,6 @@ body::-webkit-scrollbar {
     transition-timing-function: ease-in-out;
 }
 
-.hero-banner-contant p {
-    padding: 2px 0px;
-    font-size: 1rem;
-    color: black;
-}
-
 .herobanner-card:hover .hero-banner-contant {
     display: block;
     border-radius: 6px;
